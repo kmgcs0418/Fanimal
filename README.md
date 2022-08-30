@@ -5,7 +5,7 @@ jsp, servlet project
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bfb4d32-6fb2-47e7-9c9d-14431c932edc/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397280-55295e54-d483-4c09-b020-91f642b3bb27.png)
 
 쌍용교육센터에서 진행한 팀 프로젝트입니다. Fanimal은 반려동물의 케어기록을 웹사이트에서 할 수 있을 뿐만 아니라 병원을 찾고 예약하고 방문 후 처방전을 넘겨 받아 케어일기를 작성 할 수 있습니다. 또 한 반려동물에 대한 기록을 남기고 사이트를 사용하는 사용자들과 커뮤니티를 통해 소통할 수 있습니다.
 
@@ -34,7 +34,7 @@ jsp, servlet project
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53a401af-b0ac-4694-a943-1c1099e9237a/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397301-74578339-49b3-4d68-bb38-dde8dc035668.png)
 
 ## 주요 업무 구현 화면
 
@@ -42,21 +42,21 @@ jsp, servlet project
 
 - 케어일기 작성 및 상세보기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be2f99e2-5a26-4d3d-8907-c53d9a754c6d/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397319-5052234a-b373-4ff7-aa9d-61ce20ef3bf0.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5789d7d-b6bb-49a7-8fca-b832ea01be26/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397343-3809b738-b3fa-4aec-a27b-5da4fab634a0.png)
 
 - 동물병원 예약
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02f3611a-e221-46c9-85c5-aacfe573326a/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397369-f7a3d462-bf28-4e26-9c83-43843b17d5c8.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/770bd98f-df14-4898-89f2-3dc6e2f594c3/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397394-a8a0d6df-fc5c-44b1-a46c-47d0490bbb2a.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/921c6ee7-0585-4ebf-8d9d-aca011b5e8d3/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397415-37fb369e-0e6a-4852-8ebd-65e2d1f4b04c.png)
 
 - 일정 출력
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/778d92d3-81df-45c5-a56d-f41c053b6ff4/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397435-529e7df1-86dc-49d2-9c11-68718dbaa5b9.png)
 
 - 예약 조회
 
