@@ -60,14 +60,14 @@ jsp, servlet project
 
 - 예약 조회
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be0082a2-bee4-4556-ac4a-272296d5da1f/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397824-9f5d6a61-ece6-4d7e-a8f5-94dfc6cb35cd.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0c44ffa-49e5-4feb-85e9-c2218836172b/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397847-addd56b9-8c21-41d1-bad6-02eb41d60484.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5935bef-d4b8-4fb9-943a-902b1d71205e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397865-b49fc5e9-1a22-43ef-88f0-b3e3b614123c.png)
 
 - 커뮤니티
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7da6d75c-e2fe-4c1a-b34b-32981216230b/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397890-59b07e67-d301-4504-b76f-53ce0fcba2ad.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18497a04-bf0d-4b55-8738-f98edee27587/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/73234708/187397929-dc4ca7b6-fc2c-44d8-ab84-16e61b01880d.png)
